@@ -1,0 +1,143 @@
+/*  Utilities >> */
+.site-wrap {	
+	width: 100%;
+	max-width: 100%;	
+}
+
+/* Site administration >> */
+#site-admin-seach-form-wrap {
+	clear: both;
+	float: none;
+}
+
+/* Login Form >> */
+#site-admin-login-wrap {
+	clear: both;
+	float: none;
+}
+/* Login Form << */
+
+/* Site administration << */
+
+/* Content Box >> */
+
+/* Content Box One Row >> */
+.content-box-one-row>div {
+	margin: 15px 5px;
+}
+/* Content Box One Row << */
+
+/* Content Box Two Rows Table >> */
+.content-box-two-rows-table {
+	margin: 15px 5px;
+}
+
+.content-box-two-rows-table > div {
+	float: none;
+}
+
+.content-box-two-rows-table>div:first-child {
+	width: auto;
+}
+
+.content-box-two-rows-table>div:last-child {
+	display: none;
+}
+/* Content Box Two Rows Table << */
+
+/* Content Box Two Rows Table without Main Sidebar >> */
+.content-box-two-rows-no-main-sidebar-table  {
+	margin: 15px 5px;
+}
+
+.content-box-two-rows-no-main-sidebar-table  > div {
+	float: none;
+}
+
+.content-box-two-rows-no-main-sidebar-table > div:first-child { 
+	width: auto;
+}
+
+.content-box-two-rows-no-main-sidebar-table > div:last-child { 
+	display: none;
+}
+/* Content Box Two Rows Table without Main Sidebar << */
+
+/* Content Box << */
+
+/* Article >> */
+.article-picture {
+	display: none;
+	float: none;
+}
+
+.article-content-wrap {
+	max-height: 210px;
+	width: auto;
+	float: none;
+}
+
+.article-content-no-image-wrap {
+	max-height: 210px;	
+}
+
+.article-content-one-row-wrap {	
+	max-height: 210px;
+	width: auto;
+	float: none;	
+}
+
+.article-content-no-image-one-row-wrap {
+	max-height: 210px;		
+}
+
+.article-content-no-main-sidebar-wrap {	
+	max-height: 210px;
+	width: auto;
+	float: none;
+}
+
+.article-content-no-main-sidebar-no-image-wrap {
+	max-height: 210px	
+}
+
+.article-content-full-size-wrap {
+	max-height: 210px;
+	width: auto;
+	float: none;	
+}
+
+.article-content-no-image-full-size-wrap {	
+	max-height: 210px;	
+}
+/* Article << */
+
+/* Utilities << */
+
+/* User Styles >> */
+
+body {
+	font-size: 150%;
+}
+
+/* Content wrap >> */
+
+/* Content >> */
+#content {	
+	padding: 0;
+	width: 100%;
+}
+
+#content.content-no-sidebar {	
+	padding: 0;
+	width: 100%;
+}
+/* Content << */
+
+/* Side bar >> */
+#side-bar {	
+	display: none;	
+}
+/* Side bar << */
+
+/* User Styles << */

@@ -1,0 +1,101 @@
+/*  Utilities >> */
+.site-wrap {	
+	width: 750px;
+	max-width: 750px;	
+}
+
+/* Site administration >> */
+#site-admin-seach-form-wrap {
+	clear: both;
+	float: none;
+}
+
+/* Login Form >> */
+#site-admin-login-wrap {
+	clear: both;
+	float: none;
+}
+/* Login Form << */
+
+/* Site administration << */
+
+/* Content Box >> */
+
+/* Content Box Two Rows Table >> */
+.content-box-two-rows-table>div:first-child {
+	width: 495px;
+}
+/* Content Box Two Rows Table << */
+
+/* Content Box Two Rows Table without Main Sidebar >> */
+.content-box-two-rows-no-main-sidebar-table > div:first-child { 
+	width: 495px; 
+}
+/* Content Box Two Rows Table without Main Sidebar << */
+
+/* Content Box << */
+
+/* Article >> */
+.article-content-wrap {
+	max-height: 210px;
+	width: 355px;
+}
+
+.article-content-no-image-wrap {
+	max-height: 210px;	
+}
+
+.article-content-one-row-wrap {	
+	max-height: 210px;
+	width: 560px;	
+}
+
+.article-content-no-image-one-row-wrap {
+	max-height: 210px;		
+}
+
+.article-content-no-main-sidebar-wrap {	
+	max-height: 210px;
+	width: 355px;
+}
+
+.article-content-no-main-sidebar-no-image-wrap {
+	max-height: 210px	
+}
+
+.article-content-full-size-wrap {
+	max-height: 210px;
+	width: 560px;	
+}
+
+.article-content-no-image-full-size-wrap {	
+	max-height: 210px;	
+}
+/* Article << */
+
+/* Utilities << */
+
+/* User Styles >> */
+
+
+/* Content wrap >> */
+
+/* Content >> */
+#content {	
+	padding: 13px 13px 0 13px;
+	width: 724px;
+}
+
+#content.content-no-sidebar {	
+	padding: 13px 13px 0 13px;
+	width: 724px;
+}
+/* Content << */
+
+/* Side bar >> */
+#side-bar {	
+	display: none;	
+}
+/* Side bar << */
+
+/* User Styles << */
